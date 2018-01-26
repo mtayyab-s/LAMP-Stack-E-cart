@@ -1,2 +1,2 @@
 # LAMP-Stack-E-cart
-e-cart system in LAMP Stack with Session handling
+Online Book store with e-cart system built on LAMP Stack with Session handling
